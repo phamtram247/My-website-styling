@@ -1,0 +1,123 @@
+h1 {
+    font-size: larger;
+    font-family: "Source Code Pro";
+    font-weight: bold;
+    text-align: center;
+}
+.div
+{
+    display: block;
+}
+div.container {
+    margin: 10px auto;
+    border:2px solid black;
+    padding: 10px;
+    position: relative;
+    width: 800px;
+}
+div.color-container {
+    margin: 50px 50px 50px 100px;
+}
+.color-Sea-Green{
+    background-color: seagreen;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 1px solid black;
+    width: fit-content;
+}
+.color-Light-Salmon {
+    background-color: lightsalmon;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    display:inline-block;
+    border: 1px solid black;
+    width: fit-content;
+}
+.color-Silver{
+    background-color: silver;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 1px solid black;
+    width: fit-content;
+}
+.color-Blue {
+    background-color: lightskyblue;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 1px solid black;
+    width: fit-content;
+}
+p.color-label {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+p.color-hexa {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+/*font*/
+div.font-container {
+    margin: 10px auto;
+    width: 500px;
+}
+div.font-panel {
+    display: inline-block;
+    padding:10px;
+    border: 2px solid black;
+    margin: 20px 20px;;
+}
+p.font-source-code-pro {
+    font-family: "Source Code Pro";
+}
+p.scp-regular {
+    font-family: "Source Code Pro";
+    font-style: normal;
+}
+p.scp-italic {
+    font-family: "Source Code Pro";
+    font-style: italic;
+}
+p.scp-bold {
+    font-family: "Source Code Pro";
+    font-weight: bold;
+}
+
+p.font-nunito-sans {
+    font-family: "Nunito Sans";
+}
+p.ns-regular {
+    font-family: "Nunito Sans";
+    font-style: normal;
+}p.ns-italic {
+    font-family: "Nunito Sans";
+    font-style: italic;
+}
+p.ns-bold {
+    font-family: "Nunito Sans";
+    font-weight: bold;
+}
+
+p.font-poppins {
+    font-family: "Poppins";
+}
+p.pp-regular {
+    font-family: "Poppins";
+    font-style: normal;
+}
+p.pp-italic {
+    font-family: "Poppins";
+    font-style: italic;
+}
+p.pp-bold {
+    font-family: "Poppins";
+    font-weight: bold;
+}
+p.font-source-code-pro, p.font-nunito-sans, p.font-poppins {
+    font-style: ;
+}
